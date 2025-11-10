@@ -1,5 +1,5 @@
-GNCIPL_Data_Analysis_task_no_2_week_2
-#Plant Phenotyping / Growth Analysis 
+#GNCIPL_Data_Analysis_task_no_2_week_2
+Plant Phenotyping / Growth Analysis 
 
 This project focuses on analyzing plant growth under different environmental or treatment conditions using data-driven techniques. The goal is to quantify various plant traits—such as height, stem diameter, leaf count, and leaf area—over time to assess growth performance and treatment effects.
 
